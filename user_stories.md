@@ -228,80 +228,80 @@ What is their skill level:
 
 ## User Story 23
 
-Who is the user:
+Who is the user: Mei Lin is a UW graduate student who lives near University Way and orders takeout after her Tuesday evening class.
 
-What do they want to do with the tool:
+What do they want to do with the tool: She wants to compare the food safety inspection histories of two Chinese takeout restaurants before choosing where to order dinner.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: She wants to identify the correct restaurant by its street address, see the date and result of its latest inspection, and understand any recorded violations in plain language. She does not want to confuse a similarly named restaurant in another neighborhood with the one near her apartment.
 
-What is their skill level:
+What is their skill level: She frequently uses delivery apps but has never searched official restaurant inspection records.
 
 ## User Story 24
 
-Who is the user:
+Who is the user: Jason Park is a UW undergraduate whose usual study group orders dinner from the same restaurant every Friday.
 
-What do they want to do with the tool:
+What do they want to do with the tool: He wants to check whether a restaurant that previously failed an inspection has had a follow-up inspection before suggesting it for the next group order.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: He wants inspections listed by date, with the failed inspection and any later follow-up clearly distinguished. If no follow-up record is available, he wants the tool to say that rather than imply that the problem has been resolved.
 
-What is their skill level:
+What is their skill level: He is comfortable using websites and sorting tables but does not know how follow-up inspections are recorded.
 
 ## User Story 25
 
-Who is the user:
+Who is the user: Lily Zhang is a UW student who has just moved to the U District and found a restaurant recommendation in a student group chat.
 
-What do they want to do with the tool:
+What do they want to do with the tool: She wants to look up the recommended restaurant even though the message contains only its Chinese name and a nearby intersection.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: She wants to search using the name she knows, compare matching names and addresses, and open the inspection history for the correct location. If the name cannot be matched, she wants to try an address search rather than assume the restaurant has no inspection record.
 
-What is their skill level:
+What is their skill level: She uses Chinese-language social media and smartphone maps daily but is unfamiliar with the English business names used in local records.
 
 ## User Story 26
 
-Who is the user:
+Who is the user: Alex Nguyen is a UW research assistant deciding between two branches of the same Asian restaurant chain for a weekend dinner.
 
-What do they want to do with the tool:
+What do they want to do with the tool: He wants to compare the inspection records for the U District branch and the International District branch.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: He wants each branch identified by its address and its own inspection history. He wants to compare the latest inspection dates and recorded violations without mixing records from different branches or treating the chain as a single restaurant.
 
-What is their skill level:
+What is their skill level: He is comfortable comparing information in tables but has not used a restaurant inspection database.
 
 ## User Story 27
 
-Who is the user:
+Who is the user: Grace Chen is a UW student whose parents are visiting Seattle and have asked her to check a restaurant they saw online.
 
-What do they want to do with the tool:
+What do they want to do with the tool: She wants to understand an inspection report well enough to explain its findings to her parents before they decide where to eat.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: She wants a short explanation of unfamiliar violation terms, the inspection date, and a link to the original report. She wants the explanation to distinguish a specific recorded issue from a claim that the restaurant is always unsafe.
 
-What is their skill level:
+What is their skill level: She can navigate English-language websites, but neither she nor her parents are familiar with food safety inspection terminology.
 
 ## User Story 28
 
-Who is the user:
+Who is the user: Ryan Kim is a UW student considering a newly opened noodle shop near his bus stop.
 
-What do they want to do with the tool:
+What do they want to do with the tool: He wants to check for an inspection record before trying the shop on his way home.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: He wants to search by the current name and exact address, see when the tool last updated its data, and receive a clear message if no matching record is found. He does not want missing data to appear as a clean inspection or a failed inspection.
 
-What is their skill level:
+What is their skill level: He uses basic search and map features on his phone but has no experience interpreting incomplete public datasets.
 
 ## User Story 29
 
-Who is the user:
+Who is the user: Sarah Wu is a UW student who received a screenshot of an old restaurant violation in a group chat while planning dinner with her roommate.
 
-What do they want to do with the tool:
+What do they want to do with the tool: She wants to check the original inspection and see whether more recent records are available before changing their dinner plans.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: She wants to search for the restaurant, locate the inspection date shown in the screenshot, and read later inspection results in order. She wants dates and source links so that she can share current information rather than forward an undated warning.
 
-What is their skill level:
+What is their skill level: She regularly searches the web and shares links but has never compared multiple inspections for one restaurant.
 
 ## User Story 30
 
-Who is the user:
+Who is the user: Daniel Lee is a UW student arranging a Saturday dinner with two friends who live in different Seattle neighborhoods.
 
-What do they want to do with the tool:
+What do they want to do with the tool: He wants to compare the inspection histories of three Asian restaurants suggested by the group and send his friends the records for the restaurant they choose.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool: He wants to keep the three restaurants distinguishable by name and address, compare their latest inspection dates and findings, and copy a link to the selected restaurant or its official report. He wants the tool to show when inspection dates differ so the group does not mistake older information for a current comparison.
 
-What is their skill level:
+What is their skill level: He is comfortable with maps, browser tabs, and sharing links, but he has no specialist knowledge of restaurant inspections.
