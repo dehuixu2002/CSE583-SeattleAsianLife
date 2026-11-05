@@ -160,63 +160,63 @@ What is their skill level:
 
 ## User Story 17
 
-Who is the user:
+Who is the user:Emily Chen is a first-year undergraduate student at UW who recently moved to Seattle.
 
-What do they want to do with the tool:
+What do they want to do with the tool:She wants to find a cafe near campus where she can have breakfast before class.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:She wants a clean cafe within a 10-minute walk from campus, with breakfast items under $12, vegetarian options, and recent food safety inspection information.
 
-What is their skill level:
+What is their skill level:She uses Google Maps regularly but has never used a tool that shows cafe inspection records.
 
 ## User Story 18
 
-Who is the user:
+Who is the user:David Wang is a master's student at UW who studies in the library between classes.
 
-What do they want to do with the tool:
+What do they want to do with the tool:He wants to find a cafe where he can study and have a quick lunch.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:He wants a cafe within a 15-minute walk from the library, with reliable Wi-Fi, available seating, meals under $15, and clear cleanliness information.
 
-What is their skill level:
+What is their skill level:He is comfortable using websites and maps but has never used a tool that combines cafe locations and inspection records.
 
 ## User Story 19
 
-Who is the user:
+Who is the user:Sophia Liu is a PhD student at UW who often works late in her research laboratory.
 
-What do they want to do with the tool:
+What do they want to do with the tool:She wants to find a cafe that is open in the evening where she can get coffee and a snack.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:She wants a cafe near her lab with evening hours, dairy-free drink options, snacks under $10, and recent food safety inspection information.
 
-What is their skill level:
+What is their skill level:She has strong computer skills but has no experience using this cafe guide.
 
 ## User Story 20
 
-Who is the user:
+Who is the user:Kevin Zhang is a teaching assistant at UW who often meets students between classes.
 
-What do they want to do with the tool:
+What do they want to do with the tool:He wants to find a cafe suitable for meeting with two students.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:He wants a quiet cafe within a 10-minute walk from the engineering buildings, with seating for three, affordable drinks, and a clean dining area.
 
-What is their skill level:
+What is their skill level:He frequently uses online maps and cafe websites but has never compared official inspection records in one place.
 
 ## User Story 21
 
-Who is the user:
+Who is the user:Anna Kim is a prospective graduate student visiting UW for the first time.
 
-What do they want to do with the tool:
+What do they want to do with the tool:She wants to find a grocery store where she can buy snacks and basic supplies near her temporary accommodation.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:She wants a grocery store within a 15-minute walk, with clear opening hours, fresh produce, affordable options, and recent food safety inspection information.
 
-What is their skill level:
+What is their skill level:She is familiar with smartphone maps but does not know the local grocery stores or UW neighborhood.
 
 ## User Story 22
 
-Who is the user:
+Who is the user:Linda Zhao is a parent visiting Seattle for the weekend with her undergraduate student.
 
-What do they want to do with the tool:
+What do they want to do with the tool:She wants to find a grocery store where they can buy ingredients to prepare a family meal.
 
-What need and desires do they want for the tool:
+What need and desires do they want for the tool:She wants a clean store with fresh meat, vegetables, and Asian ingredients, parking information, and official food safety inspection records.
 
-What is their skill level:
+What is their skill level:She has basic smartphone skills but rarely uses grocery search tools and prefers simple instructions.
 
 ## User Story 23
 
